@@ -1,0 +1,8 @@
+#들여쓰기 매우 중요
+spring:
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    defer-datasource-initialization: true

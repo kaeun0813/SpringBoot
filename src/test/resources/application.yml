@@ -1,0 +1,5 @@
+spring:
+  sql:
+    init:
+      mode: never
+#src/main/resources폴더 내에 있는 data.sql파일을 자동으로 실행하지 않게 하는 옵션
